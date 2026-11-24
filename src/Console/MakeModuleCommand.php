@@ -58,7 +58,7 @@ class MakeModuleCommand extends Command
             "type": "library",
             "license": "proprietary",
             "require": {
-                "php": "^8.3",
+                "php": "^8.5",
                 "quansitech/cmf-core": "*"
             },
             "autoload": {
